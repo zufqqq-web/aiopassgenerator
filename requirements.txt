@@ -1,0 +1,3 @@
+aiogram
+string
+asyncio
